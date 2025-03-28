@@ -39,7 +39,7 @@ export default function Footer(props) {
             <a
               href='https://github.com/tangly1024/NotionNext'
               className=' hover:underline'>
-              NotionNext {siteConfig('VERSION')}
+              Rania {siteConfig('VERSION')}
             </a>
           </span>
         </div>
