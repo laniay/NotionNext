@@ -37,9 +37,9 @@ export default function Footer(props) {
           <span className='no-underline ml-4'>
             Powered by
             <a
-              href='https://google.com'
+              href='https://www.notion.com/'
               className=' hover:underline'>
-              Rania {siteConfig('VERSION')}
+              Notion {siteConfig('VERSION')}
             </a>
           </span>
         </div>
